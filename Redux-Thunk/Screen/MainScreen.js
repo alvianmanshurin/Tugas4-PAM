@@ -129,7 +129,7 @@ const MainScreen = ({ navigation }) => {
         keyExtractor={(item) => item.id}
       />
       <Text style={styles.copyright}>
-        Copyright Revansa Helsa Kuswana - 120140096
+        Copyright Alvian Manshurin - 120140162
       </Text>
     </View>
   );
